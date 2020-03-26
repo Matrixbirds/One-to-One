@@ -29,7 +29,6 @@ const scssLoader = {
   use: [
     styleLoader,
     "css-loader",
-    "sass-loader",
   ]
 }
 
